@@ -1,0 +1,8 @@
+
+*
+!README.md
+!.gitignore
+!CMakeLists.txt
+!*.cpp
+!*.vcxproj
+!*.vcxproj.filters
